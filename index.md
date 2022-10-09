@@ -16,7 +16,7 @@ I am currently working at [Quantum Analytica](https://quantumanalytica.io/), as 
 ---
 
 
-*A little about me; I am currently employed at Quantum Analytica where I work as a Machine Learning Engineer (Jr.). My interests include Artificial Intelligence, Machine Learning and their applicability in the autonomous vehicles domain. When I am not writing code, you will find me playing football, video games, hiking in Islamabad's Margalla Hills, or helping my brother with his startup. I will try to keep this site updated with happenings across my personal life and my professional career.*
+*A little about me; I am currently pursuing my Master's in Computer Science at the University of Southern California. My interests include Artificial Intelligence, Machine Learning, and Software Engineering. When I am not writing code, you will find me playing football, video games, hiking in Islamabad's Margalla Hills (pictured above) or helping my brother with his startup. I will try to keep this site updated with happenings across my personal life and my professional career.*
 
 You can check about my different projects on my [projects page](https://qaiis.github.io/projects/)
 
