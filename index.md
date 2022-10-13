@@ -11,7 +11,7 @@ header:
 
 # About me
 
-I am currently working at [Quantum Analytica](https://quantumanalytica.io/), as a full-time **Jr. Machine-Learning Engineer**.
+I am currently pursing my Masters in Computer Sciene at the **University of Southern California**.
 
 ---
 
