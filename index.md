@@ -11,12 +11,14 @@ header:
 
 # About me
 
+I am currently pursing my Masters in Computer Sciene at the **University of Southern California**.
 
 ---
 
 
-*I am a customer Service Representative with 6+ years of experience in high quality service and developing customer relationships. I am constantly developing innovative ways to exceed customer expectations. I believe to succeed in a customer facing job you need to listen to customer needs, follow company policies, and work to find a resolution that benefits the company and the customer. I am skilled at using consumer feedback to improve customer service processes.*
+*A little about me; I am currently pursuing my Master's in Computer Science at the University of Southern California. My interests include Artificial Intelligence, Machine Learning, and Software Engineering. When I am not writing code, you will find me playing football, video games, hiking in Islamabad's Margalla Hills (pictured above) or helping my brother with his startup. I will try to keep this site updated with happenings across my personal life and my professional career.*
 
+You can check about my different projects on my [projects page](https://qaiis.github.io/projects/)
 
 ## Contact me
 
