@@ -1,8 +1,8 @@
 ---
-title: 'Sahibzada Goharzeb Khan'
+title: 'Qais Khan'
 layout: single
 author_profile: true
-excerpt: 'Hi! I am Sahibzada and welcome to my personal website.'
+excerpt: 'Hi! I am Qais and welcome to my personal website.'
 header:
   overlay_image: /images/islamabad.jpg
   caption: "Photo credit: [**wallpaper safari**](https://img.wallpapersafari.com/desktop/1024/576/47/98/QyksSR.jpg)"
